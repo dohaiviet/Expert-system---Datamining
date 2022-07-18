@@ -1,0 +1,40 @@
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\LAP TRINH WINDOWS\Project\TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\bin\Debug\TuVanMuaMayTinh_HCG_Nhom5.exe.config
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\LAP TRINH WINDOWS\Project\TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\bin\Debug\TuVanMuaMayTinh_HCG_Nhom5.exe
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\LAP TRINH WINDOWS\Project\TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\bin\Debug\TuVanMuaMayTinh_HCG_Nhom5.pdb
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\LAP TRINH WINDOWS\Project\TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.BTL_HCG.resources
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\LAP TRINH WINDOWS\Project\TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.FormHuongDanCauHinhCSDL.resources
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\LAP TRINH WINDOWS\Project\TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.FormLuat.resources
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\LAP TRINH WINDOWS\Project\TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.FormNhapDL.resources
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\LAP TRINH WINDOWS\Project\TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.Properties.Resources.resources
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\LAP TRINH WINDOWS\Project\TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.csproj.GenerateResource.Cache
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\LAP TRINH WINDOWS\Project\TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.exe
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\LAP TRINH WINDOWS\Project\TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.pdb
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\LAP TRINH WINDOWS\Project\TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.csprojResolveAssemblyReference.cache
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\LAP TRINH WINDOWS\Project\TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.Resource1.resources
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\HE CHUYEN GIA\KHP\Da Send\HCG_Nhom5_KHMT2_K8_Khang_Dat_Hien\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\bin\Debug\TuVanMuaMayTinh_HCG_Nhom5.exe.config
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\HE CHUYEN GIA\KHP\Da Send\HCG_Nhom5_KHMT2_K8_Khang_Dat_Hien\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.exe
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\HE CHUYEN GIA\KHP\Da Send\HCG_Nhom5_KHMT2_K8_Khang_Dat_Hien\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.pdb
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\HE CHUYEN GIA\KHP\Da Send\HCG_Nhom5_KHMT2_K8_Khang_Dat_Hien\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\bin\Debug\TuVanMuaMayTinh_HCG_Nhom5.exe
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\HE CHUYEN GIA\KHP\Da Send\HCG_Nhom5_KHMT2_K8_Khang_Dat_Hien\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\bin\Debug\TuVanMuaMayTinh_HCG_Nhom5.pdb
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\HE CHUYEN GIA\KHP\Da Send\HCG_Nhom5_KHMT2_K8_Khang_Dat_Hien\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.csprojResolveAssemblyReference.cache
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\HE CHUYEN GIA\KHP\Da Send\HCG_Nhom5_KHMT2_K8_Khang_Dat_Hien\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.BTL_HCG.resources
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\HE CHUYEN GIA\KHP\Da Send\HCG_Nhom5_KHMT2_K8_Khang_Dat_Hien\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.FormHuongDanCauHinhCSDL.resources
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\HE CHUYEN GIA\KHP\Da Send\HCG_Nhom5_KHMT2_K8_Khang_Dat_Hien\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.FormLuat.resources
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\HE CHUYEN GIA\KHP\Da Send\HCG_Nhom5_KHMT2_K8_Khang_Dat_Hien\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.FormNhapDL.resources
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\HE CHUYEN GIA\KHP\Da Send\HCG_Nhom5_KHMT2_K8_Khang_Dat_Hien\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.Properties.Resources.resources
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\HE CHUYEN GIA\KHP\Da Send\HCG_Nhom5_KHMT2_K8_Khang_Dat_Hien\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.Resource1.resources
+E:\OneDrive\TAI LIEU\BTL\NAM 3-KY II\HE CHUYEN GIA\KHP\Da Send\HCG_Nhom5_KHMT2_K8_Khang_Dat_Hien\Code_C#_TuVanMuaMayTinh_HCG_Nhom5\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\bin\Debug\TuVanMuaMayTinh_HCG_Nhom5.exe.config
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\bin\Debug\TuVanMuaMayTinh_HCG_Nhom5.exe
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\bin\Debug\TuVanMuaMayTinh_HCG_Nhom5.pdb
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.BTL_HCG.resources
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.FormHuongDanCauHinhCSDL.resources
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.FormLuat.resources
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.FormNhapDL.resources
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.Properties.Resources.resources
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.Resource1.resources
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.exe
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.pdb

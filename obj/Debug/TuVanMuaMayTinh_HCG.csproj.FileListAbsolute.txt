@@ -1,0 +1,37 @@
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\bin\Debug\TuVanMuaMayTinh_HCG_Nhom5.exe.config
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\bin\Debug\TuVanMuaMayTinh_HCG_Nhom5.exe
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\bin\Debug\TuVanMuaMayTinh_HCG_Nhom5.pdb
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.BTL_HCG.resources
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.FormHuongDanCauHinhCSDL.resources
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.FormLuat.resources
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.FormNhapDL.resources
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.Properties.Resources.resources
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.Resource1.resources
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.exe
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.pdb
+C:\Users\Admin\Desktop\TuVanMuaMayTinh_HCG_Nhom5\obj\Debug\TuVanMuaMayTinh_HCG.csproj.AssemblyReference.cache
+C:\Users\vietd\Downloads\HCGLaptop\Hệ chuyên gia nhóm 10\TuVanMuaMayTinh_HCG\bin\Debug\TuVanMuaMayTinh_HCG_Nhom5.exe.config
+C:\Users\vietd\Downloads\HCGLaptop\Hệ chuyên gia nhóm 10\TuVanMuaMayTinh_HCG\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.exe
+C:\Users\vietd\Downloads\HCGLaptop\Hệ chuyên gia nhóm 10\TuVanMuaMayTinh_HCG\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.pdb
+C:\Users\vietd\Downloads\HCGLaptop\Hệ chuyên gia nhóm 10\TuVanMuaMayTinh_HCG\bin\Debug\TuVanMuaMayTinh_HCG_Nhom5.exe
+C:\Users\vietd\Downloads\HCGLaptop\Hệ chuyên gia nhóm 10\TuVanMuaMayTinh_HCG\bin\Debug\TuVanMuaMayTinh_HCG_Nhom5.pdb
+C:\Users\vietd\Downloads\HCGLaptop\Hệ chuyên gia nhóm 10\TuVanMuaMayTinh_HCG\obj\Debug\TuVanMuaMayTinh_HCG.csprojResolveAssemblyReference.cache
+C:\Users\vietd\Downloads\HCGLaptop\Hệ chuyên gia nhóm 10\TuVanMuaMayTinh_HCG\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.BTL_HCG.resources
+C:\Users\vietd\Downloads\HCGLaptop\Hệ chuyên gia nhóm 10\TuVanMuaMayTinh_HCG\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.FormHuongDanCauHinhCSDL.resources
+C:\Users\vietd\Downloads\HCGLaptop\Hệ chuyên gia nhóm 10\TuVanMuaMayTinh_HCG\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.FormLuat.resources
+C:\Users\vietd\Downloads\HCGLaptop\Hệ chuyên gia nhóm 10\TuVanMuaMayTinh_HCG\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.FormNhapDL.resources
+C:\Users\vietd\Downloads\HCGLaptop\Hệ chuyên gia nhóm 10\TuVanMuaMayTinh_HCG\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.Properties.Resources.resources
+C:\Users\vietd\Downloads\HCGLaptop\Hệ chuyên gia nhóm 10\TuVanMuaMayTinh_HCG\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.Resource1.resources
+C:\Users\vietd\Downloads\HCGLaptop\Hệ chuyên gia nhóm 10\TuVanMuaMayTinh_HCG\obj\Debug\TuVanMuaMayTinh_HCG.csproj.GenerateResource.Cache
+C:\Users\vietd\Desktop\Bài tập lớn DataMining\TuVanMuaMayTinh_HCG\bin\Debug\TuVanMuaMayTinh_HCG_Nhom5.exe.config
+C:\Users\vietd\Desktop\Bài tập lớn DataMining\TuVanMuaMayTinh_HCG\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.exe
+C:\Users\vietd\Desktop\Bài tập lớn DataMining\TuVanMuaMayTinh_HCG\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.pdb
+C:\Users\vietd\Desktop\Bài tập lớn DataMining\TuVanMuaMayTinh_HCG\obj\Debug\TuVanMuaMayTinh_HCG.csprojResolveAssemblyReference.cache
+C:\Users\vietd\Desktop\Bài tập lớn DataMining\TuVanMuaMayTinh_HCG\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.BTL_HCG.resources
+C:\Users\vietd\Desktop\Bài tập lớn DataMining\TuVanMuaMayTinh_HCG\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.FormHuongDanCauHinhCSDL.resources
+C:\Users\vietd\Desktop\Bài tập lớn DataMining\TuVanMuaMayTinh_HCG\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.FormLuat.resources
+C:\Users\vietd\Desktop\Bài tập lớn DataMining\TuVanMuaMayTinh_HCG\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.FormNhapDL.resources
+C:\Users\vietd\Desktop\Bài tập lớn DataMining\TuVanMuaMayTinh_HCG\obj\Debug\TuVanMuaMayTinh_HCG_Nhom5.Resource1.resources
+C:\Users\vietd\Desktop\Bài tập lớn DataMining\TuVanMuaMayTinh_HCG\obj\Debug\TuVanMuaMayTinh_HCG.csproj.GenerateResource.Cache
